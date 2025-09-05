@@ -1,5 +1,5 @@
-## Exploratory Data Analysis in the Hospitality Domain
-# Project Overview
+# Exploratory Data Analysis in the Hospitality Domain
+## Project Overview
 
 This project focuses on exploratory data analysis (EDA) for an imaginary premium hotel chain, AtliQ Grands, which operates across four metropolitan cities in India—Delhi, Mumbai, Bangalore, and Hyderabad.
 
@@ -7,7 +7,7 @@ In recent years, AtliQ Grands has faced revenue decline and shrinking market sha
 
 Through this analysis, I explored booking patterns, customer preferences, cancellation trends, and revenue contributions across different channels.
 
-# Objectives
+## Objectives
 
 Perform initial data exploration and cleaning
 
@@ -19,11 +19,11 @@ Analyze revenue distribution across hotels and seasons
 
 Translate insights into actionable recommendations for business growth
 
-# Dataset
+## Dataset
 
 The dataset for this project is sourced from the Codebasics Resume Challenge, designed to simulate a real-world business case in the hospitality industry.
 
-# Tools and Libraries
+## Tools and Libraries
 
 Python
 
